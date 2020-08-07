@@ -1,0 +1,28 @@
+.Calender {
+    text-align: center;
+  }
+  
+  .Calender-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .Calender-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .Calender-title {
+    font-size: 1.5em;
+  }
+  
+  .Calender-intro {
+    font-size: large;
+  }
+  
+  @keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }

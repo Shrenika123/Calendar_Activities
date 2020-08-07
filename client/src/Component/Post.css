@@ -1,0 +1,20 @@
+.post{
+    background-color: lightgrey;
+    width: 300px;
+    border: 0px solid green;
+    padding: 50px;
+    margin: 20px;
+    }
+
+    .center {
+        margin: auto;
+        width: 30%;
+        background-color: lightgrey;
+        border: 3px solid #366992;
+        padding: 10px;
+      }
+
+     
+      .center:hover {
+        background-color:#F0F8FF	;
+      }
