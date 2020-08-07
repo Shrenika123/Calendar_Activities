@@ -1,12 +1,4 @@
-.post{
-    background-color: lightgrey;
-    width: 300px;
-    border: 0px solid green;
-    padding: 50px;
-    margin: 20px;
-    }
-
-    .center {
+ .center {
         margin: auto;
         width: 30%;
         background-color: lightgrey;
@@ -15,6 +7,6 @@
       }
 
      
-      .center:hover {
-        background-color:#F0F8FF	;
-      }
+.center:hover {
+             background-color:#F0F8FF	;
+             }

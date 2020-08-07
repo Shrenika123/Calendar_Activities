@@ -16,8 +16,8 @@ class MyComp extends Component {
         const posts = this.state.results.map((post) => {
             return (
                 <div>
-                    <Post  key={post.id} name={post.real_name} 
-                    id={post.id}/>
+                    <Post key={post.id} name={post.real_name}
+                        id={post.id} />
                     <br />
                 </div>
             )

@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-// import Calender from './Container/Calender'
 import MyComp from './Container/MyComp'
 
 function App() {
